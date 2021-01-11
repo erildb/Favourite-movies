@@ -1,0 +1,10 @@
+.page-container {
+  align-self: center;
+  display: grid;
+  grid-template-columns: 0.2fr 1fr;
+  margin-top: 50px;
+}
+
+.list-container {
+  padding-left: 30px;
+}
